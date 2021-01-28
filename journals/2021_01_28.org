@@ -1,3 +1,2 @@
 #+TITLE: Jan 28th, 2021
 
-** {{query test}}
