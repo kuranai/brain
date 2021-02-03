@@ -8,7 +8,7 @@
 ****
 ::name "test"
 *** Map
-**** Eine Map wird mit {} erstellt
+**** Eine Map wird mit ~{}~ erstellt
 **** Beispiel:
 ****
 :{:name "Steve" :age 33}
