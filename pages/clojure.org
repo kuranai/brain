@@ -6,7 +6,7 @@
 *** Key
 **** Ist ein Schlüssel und wird mit einem ^^Doppelpunkt^^ vor dem Wort erstellt:
 ****
-#+BEGIN_SRC 
+#+BEGIN_SRC clojure
 :name "test"
 #+END_SRC
 ****
