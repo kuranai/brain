@@ -4,7 +4,8 @@
 **
 ** Datenstrukturen
 *** Map
-****
+**** Eine Map wird mit {} erstellt
+**** Beispiel
 *** Set
 ***
 **
