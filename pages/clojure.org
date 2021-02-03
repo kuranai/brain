@@ -9,7 +9,6 @@
 #+BEGIN_SRC clojure
 :name "test"
 #+END_SRC
-****
 *** Map
 **** Eine Map wird mit ~{}~ erstellt
 **** Beispiel:
