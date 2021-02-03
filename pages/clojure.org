@@ -11,7 +11,9 @@
 **** Eine Map wird mit ~{}~ erstellt
 **** Beispiel:
 ****
-:{:name "Steve" :age 33}
+#+BEGIN_SRC clojure
+{:name "Steve" :age 33}
+#+END_SRC
 *** Set
 **** Wird mit ~#{}~ erstellt.
 **** Beispiel:
