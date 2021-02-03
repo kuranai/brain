@@ -10,7 +10,6 @@
 
 #+END_SRC
 ****
-:name "test"
 *** Map
 **** Eine Map wird mit ~{}~ erstellt
 **** Beispiel:
