@@ -13,7 +13,7 @@
 ****
 :{:name "Steve" :age 33}
 *** Set
-**** Wird mit #{} erstellt.
+**** Wird mit /#{} erstellt.
 ****
 ***
 **
