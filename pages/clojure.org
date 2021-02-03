@@ -7,7 +7,7 @@
 **** Ist ein Schlüssel und wird mit einem ^^Doppelpunkt^^ vor dem Wort erstellt:
 ****
 #+BEGIN_SRC 
-
+:name "test"
 #+END_SRC
 ****
 *** Map
