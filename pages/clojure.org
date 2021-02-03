@@ -19,6 +19,9 @@
 *** Set
 **** Wird mit ~#{}~ erstellt.
 **** Beispiel:
-**** ~~
+****
+#+BEGIN_SRC clojure
+
+#+END_SRC
 ***
 **
