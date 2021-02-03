@@ -15,6 +15,6 @@
 *** Set
 **** Wird mit ~#{}~ erstellt.
 **** Beispiel:
-****
+**** ~~
 ***
 **
