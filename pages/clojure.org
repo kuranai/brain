@@ -3,6 +3,10 @@
 ** Best course is maybe https://courses.packtpub.com/courses/clojure
 **
 ** Datenstrukturen
+*** Key
+**** Ist ein Schlüssel und wird mit einem Doppelpunkt vor dem Wort erstellt:
+****
+:name "test"
 *** Map
 **** Eine Map wird mit {} erstellt
 **** Beispiel
