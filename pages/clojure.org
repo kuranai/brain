@@ -11,6 +11,7 @@
 **** Eine Map wird mit {} erstellt
 **** Beispiel:
 ****
+:{:name "Steve" :age 33}
 *** Set
 ***
 **
