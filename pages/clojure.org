@@ -4,7 +4,7 @@
 **
 ** Datenstrukturen
 *** Key
-**** Ist ein Schlüssel und wird mit einem Doppelpunkt vor dem Wort erstellt:
+**** Ist ein Schlüssel und wird mit einem ^^Doppelpunkt^^ vor dem Wort erstellt:
 ****
 ::name "test"
 *** Map
