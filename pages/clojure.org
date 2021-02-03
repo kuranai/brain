@@ -3,7 +3,7 @@
 ** Best course is maybe https://courses.packtpub.com/courses/clojure
 **
 ** Datenstrukturen
-*** Key
+*** Key /
 **** Ist ein Schlüssel und wird mit einem Doppelpunkt vor dem Wort erstellt:
 ****
 ::name "test"
