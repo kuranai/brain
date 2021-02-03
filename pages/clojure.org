@@ -6,7 +6,7 @@
 *** Key
 **** Ist ein Schlüssel und wird mit einem Doppelpunkt vor dem Wort erstellt:
 ****
-:name "test"
+::name "test"
 *** Map
 **** Eine Map wird mit {} erstellt
 **** Beispiel
