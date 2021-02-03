@@ -6,7 +6,11 @@
 *** Key
 **** Ist ein Schlüssel und wird mit einem ^^Doppelpunkt^^ vor dem Wort erstellt:
 ****
-::name "test"
+#+BEGIN_SRC 
+
+#+END_SRC
+****
+:name "test"
 *** Map
 **** Eine Map wird mit ~{}~ erstellt
 **** Beispiel:
