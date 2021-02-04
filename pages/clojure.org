@@ -40,12 +40,5 @@
 #+BEGIN_SRC clojure
 '(1 2 3 4 5)
 #+END_SRC
-***
-:PROPERTIES:
-:later: 1612454896963
-:END:
-***
-***
-***
 ** ~&~ bindet den rest einer sequenz an ein symbol
 ***
