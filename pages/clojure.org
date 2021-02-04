@@ -23,7 +23,7 @@
 #+BEGIN_SRC clojure
 #{1 2 3 4 5}
 #+END_SRC
-*** Vector
+*** *Vector*
 **** wird mit ~[]~ erstellt
 **** Kann man mit dem Index drauf zugreifen
 **** Behält die Sortierung und auch Duplikate
