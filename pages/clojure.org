@@ -25,6 +25,8 @@
 #+END_SRC
 *** Vector
 **** wird mit ~[]~ erstellt
+**** Kann man mit dem Index drauf zugreifen
+**** Behält die Sortierung und auch Duplikate
 **** Beispiel:
 ****
 #+BEGIN_SRC clojure
