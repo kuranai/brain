@@ -34,6 +34,7 @@
 #+END_SRC
 *** *List*
 **** Wir mit ~'()~ erstellt
+**** Sind ähnlich wie Vector aber neue Elemente werden vorne hinzugefügt und man greift nicht mit dem Index darauf zu.
 **** Beispiel:
 ****
 #+BEGIN_SRC clojure
