@@ -3,7 +3,7 @@
 ** Beste Ressource zum lernen: https://courses.packtpub.com/courses/clojure
 **
 ** Datenstrukturen
-*** Key
+*** *Key*
 **** Ist ein Schlüssel und wird mit einem ^^Doppelpunkt^^ vor dem Wort erstellt:
 ****
 #+BEGIN_SRC clojure
