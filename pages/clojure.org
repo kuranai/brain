@@ -9,14 +9,14 @@
 #+BEGIN_SRC clojure
 :name "test"
 #+END_SRC
-*** Map
+*** *Map*
 **** Eine Map wird mit ~{}~ erstellt
 **** Beispiel:
 ****
 #+BEGIN_SRC clojure
 {:name "Steve" :age 33}
 #+END_SRC
-*** Set
+*** *Set*
 **** Wird mit ~#{}~ erstellt.
 **** Beispiel:
 ****
