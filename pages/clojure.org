@@ -47,5 +47,5 @@
 ***
 ***
 ***
-*** ~&~ bindet den rest einer sequenz an ein symbol
+** ~&~ bindet den rest einer sequenz an ein symbol
 ***
