@@ -1,33 +1,44 @@
 #+TITLE: clojure
 
-** Best course is maybe https://courses.packtpub.com/courses/clojure
+** Beste Ressource zum lernen: https://courses.packtpub.com/courses/clojure
 **
 ** Datenstrukturen
-*** Key
+*** *Key*
 **** Ist ein Schlüssel und wird mit einem ^^Doppelpunkt^^ vor dem Wort erstellt:
 ****
 #+BEGIN_SRC clojure
 :name "test"
 #+END_SRC
-*** Map
+*** *Map*
 **** Eine Map wird mit ~{}~ erstellt
 **** Beispiel:
 ****
 #+BEGIN_SRC clojure
 {:name "Steve" :age 33}
 #+END_SRC
-*** Set
+*** *Set*
 **** Wird mit ~#{}~ erstellt.
 **** Beispiel:
 ****
 #+BEGIN_SRC clojure
 #{1 2 3 4 5}
 #+END_SRC
-*** Vector
+*** *Vector*
 **** wird mit ~[]~ erstellt
+**** Kann man mit dem Index drauf zugreifen
+**** Behält die Sortierung und auch Duplikate
 **** Beispiel:
 ****
 #+BEGIN_SRC clojure
 [1 2 3 4 5]
 #+END_SRC
-**
+*** *List*
+**** Wir mit ~'()~ erstellt
+**** Sind ähnlich wie Vector aber neue Elemente werden vorne hinzugefügt und man greift nicht mit dem Index darauf zu.
+**** Beispiel:
+****
+#+BEGIN_SRC clojure
+'(1 2 3 4 5)
+#+END_SRC
+** ~&~ bindet den rest einer sequenz an ein symbol
+***
